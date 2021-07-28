@@ -18,7 +18,7 @@ body
 
 .container {
     display: flex;
-    width: 90vw;
+    width: 80vw;
 }
 
 .panel {
@@ -26,8 +26,8 @@ body
     background-position: center;
     background-repeat: no-repeat;
     height: 80vh;
-    border-radius: 20px;
-    color: white;
+    border-radius: 10px;
+    color: black;
     cursor: pointer;
     flex: 0.5;
     margin: 10px;
@@ -64,4 +64,3 @@ body
         display: none;
     }
 }
-
